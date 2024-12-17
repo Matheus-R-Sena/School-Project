@@ -14,7 +14,7 @@
             <jsp:include page="../comum/menu.jsp" />
             <div class="mt-5">
                 <h3>Seja Bem-vindo ao site escola</h3>
-                <h4>O Lugar próprio para você que é aluno ou professor</h4>
+                <h4> <hr/>O Lugar próprio para você que é: <br/> -> aluno <br/> -> professor <br/> -> administrador</h4>
             </div>
         </div>
        <script src="http://localhost:8080/aplicacaoMVC/views/bootstrap/bootstrap.bundle.min.js"></script>
