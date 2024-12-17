@@ -90,8 +90,10 @@ public class CategoriaDAO implements Dao<Categoria> {
             conexao.closeConexao();
         }
     }
-
+    
     @Override
+    
+    //Listar categorias 
     public ArrayList<Categoria> getAll() {
 
         ArrayList<Categoria> meusCategorias = new ArrayList();
