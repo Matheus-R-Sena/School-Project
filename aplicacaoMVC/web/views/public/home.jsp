@@ -13,7 +13,7 @@
         <div class="container">
             <jsp:include page="../comum/menu.jsp" />
             <div class="mt-5">
-                <h3>Seja Bem-vindo ao blog Blogado</h3>
+                <h3>Seja Bem-vindo ao site</h3>
                 <h4>Aqui comentamos sobre vários assuntos</h4>
             </div>
         </div>
