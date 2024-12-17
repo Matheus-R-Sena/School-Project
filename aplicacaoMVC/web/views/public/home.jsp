@@ -13,8 +13,8 @@
         <div class="container">
             <jsp:include page="../comum/menu.jsp" />
             <div class="mt-5">
-                <h3>Seja Bem-vindo ao site</h3>
-                <h4>Aqui comentamos sobre vários assuntos</h4>
+                <h3>Seja Bem-vindo ao site escola</h3>
+                <h4>O Lugar próprio para você que é aluno ou professor</h4>
             </div>
         </div>
        <script src="http://localhost:8080/aplicacaoMVC/views/bootstrap/bootstrap.bundle.min.js"></script>
