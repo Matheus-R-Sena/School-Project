@@ -27,6 +27,8 @@ public class CategoriaDAO implements Dao<Categoria> {
         Categoria categoria = new Categoria();
         try {
             PreparedStatement sql = conexao.getConexao().prepareStatement("SELECT * FROM Categorias WHERE ID = ? ");
+            // 
+            
             sql.setInt(1, id);
             ResultSet resultado = sql.executeQuery();
 

@@ -53,6 +53,11 @@ public class Aluno {
         this.bairro = "";
         this.cep = "";
     }
+    
+       public Aluno(int id, String nome) {
+        this.id = id;
+        this.nome = nome;
+    }
 
     // Getters e setters
     public int getId() {
