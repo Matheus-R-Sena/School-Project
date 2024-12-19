@@ -4,23 +4,8 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/web/views/public/home.jsp</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/model/Dao.java</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/web/views/autenticacao/formLogin.jsp</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/entidade/Disciplina.java</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/web/views/bootstrap/bootstrap.bundle.min.js</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/model/CategoriaDAO.java</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/model/ComentarioDAO.java</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/web/views/admin/categoria/formCategoria.jsp</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/entidade/Categoria.java</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/entidade/Administrador.java</file>
             <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/controller/admin/CategoriaController.java</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/web/views/admin/dashboard/areaRestrita.jsp</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/entidade/Aluno.java</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/model/AlunoDAO.java</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/web/views/comum/menu.jsp</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/web/views/bootstrap/bootstrap.min.css</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/model/AdministradorDAO.java</file>
-            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/model/Conexao.java</file>
+            <file>file:/C:/Users/mathe/OneDrive/Matheus/My%20Learning/03%20-%20Technology/Web%20Full%20Stack%20Development/Projeto%20de%20Desenvolvimento%20Web/School-Project/aplicacaoMVC/src/java/controller/admin/AlunoController.java</file>
         </group>
     </open-files>
 </project-private>
