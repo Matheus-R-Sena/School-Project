@@ -21,6 +21,22 @@ public class Aluno {
     private String bairro;
     private String cep;
 
+    //Construtor mais completo
+    
+    public Aluno(int id, String nome, String email, String celular, String cpf, String senha, String endereco, String cidade, String bairro, String cep) {
+    this.id = id;
+    this.nome = nome;
+    this.email = email;
+    this.celular = celular;
+    this.cpf = cpf;
+    this.senha = senha;
+    this.endereco = endereco;
+    this.cidade = cidade;
+    this.bairro = bairro;
+    this.cep = cep;
+    }
+    
+    
     // Construtor completo
     public Aluno(String nome, String email, String celular, String cpf, String senha, 
                  String endereco, String cidade, String bairro, String cep) {

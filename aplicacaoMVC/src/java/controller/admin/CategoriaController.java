@@ -26,6 +26,8 @@ public class CategoriaController extends HttpServlet {
         RequestDispatcher rd;
         switch (acao) {
             case "Listar":
+                
+                //usando o comando listar 
                 ArrayList<Categoria> listaCategorias = categoriaDAO.getAll();
                 request.setAttribute("listaCategorias", listaCategorias);
 
@@ -124,4 +126,9 @@ public class CategoriaController extends HttpServlet {
         }
     }
 
+    
+    
+    
+    
+    
 }

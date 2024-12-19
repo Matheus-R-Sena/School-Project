@@ -125,11 +125,20 @@ public class AlunoDAO implements Dao<Aluno> {
             ResultSet resultado = preparedStatement.executeQuery();
             if (resultado != null) {
                 while (resultado.next()) {
-                    Aluno Aluno = new Aluno(
+                    Aluno aluno = new Aluno(
                             resultado.getInt("ID"),
-                            resultado.getString("nome")
+                            resultado.getString("nome"),
+                            resultado.getString("email"),
+                            resultado.getString("celular"),
+                            resultado.getString("cpf"),
+                            resultado.getString("senha"),
+                            resultado.getString("endereco"),
+                            resultado.getString("cidade"),
+                            resultado.getString("bairro"),
+                            resultado.getString("cep")             
                     );
-                    meusAlunos.add(Aluno);
+                    
+                    meusAlunos.add(aluno);
                 }
             }
         } catch (SQLException e) {
