@@ -17,7 +17,8 @@ public class Professor {
     private String senha;
 
     // Construtor completo
-    public Professor(String nome, String email, String cpf, String senha) {
+    public Professor(int id, String nome, String email, String cpf, String senha) {
+        this.id = id;
         this.nome = nome;
         this.email = email;
         this.cpf = cpf;
@@ -25,8 +26,8 @@ public class Professor {
     }
 
     // Construtor simplificado (sem email e senha)
-    public Professor(String nome, String cpf) {
-        this(nome, "", cpf, "");
+    public Professor(int id, String nome, String cpf) {
+        this(id, nome, "", cpf, "");
     }
 
     // Construtor padrão (sem parâmetros)

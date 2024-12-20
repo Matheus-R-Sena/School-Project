@@ -17,7 +17,8 @@ public class Disciplina {
     private int cargaHoraria;
 
     // Construtor completo
-    public Disciplina(String nome, String requisito, String ementa, int cargaHoraria) {
+    public Disciplina(int id, String nome, String requisito, String ementa, int cargaHoraria) {
+        this.id = id;
         this.nome = nome;
         this.requisito = requisito;
         this.ementa = ementa;
@@ -25,8 +26,8 @@ public class Disciplina {
     }
 
     // Construtor simplificado (sem requisito, ementa e carga horária)
-    public Disciplina(String nome) {
-        this(nome, null, null, 0);
+    public Disciplina(int id, String nome) {
+        this(id, nome, null, null, 0);
     }
 
     // Construtor padrão (sem parâmetros)
